@@ -1,1 +1,2 @@
 # Microstrip_antenna_design
+This is my second year project, which is designing the microstrip antenna using antenna parameters such as Gain, Bandwidth, Proximity Coupled Feed, feeding techniques,etc. In the design of microstrip antennas,after considering this parameters. I used MATLAB for simulation and analysis purpose. The analysis and integration of antennas requires in-depth understanding of the physical properties of the element and the surrounding structures.
